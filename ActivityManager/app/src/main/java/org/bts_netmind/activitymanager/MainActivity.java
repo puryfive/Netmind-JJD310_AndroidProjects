@@ -13,7 +13,7 @@ public class MainActivity extends Activity implements View.OnClickListener
 {
     public static final String TAG_MAIN_ACTIVITY = "In-MainActivity";
     public static final int ACTIVITY_REQUEST_CODE = 100;
-
+    //hola
     private TextView dispInfo_TextView;
     private String retInfoString;
 
